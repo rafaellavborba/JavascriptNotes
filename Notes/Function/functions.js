@@ -25,3 +25,10 @@ const obj = {
   }
 };
 obj.falar();
+
+
+
+
+
+
+
